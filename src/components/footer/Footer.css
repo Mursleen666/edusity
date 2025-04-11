@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid black;
+    padding: 15px 0;
+    /* margin: 10px auto; */
+    background: linear-gradient(45deg , rgba(0, 0, 0, 0.858), rgba(24, 16, 75, 0.95));
+    color: white;
+    padding: 20px;
+    border-radius: 0px;
+}
+.footer ul li{
+     list-style: none;
+     display: inline-block;
+     margin-left: 20px;
+}
